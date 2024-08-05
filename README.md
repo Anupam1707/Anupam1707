@@ -35,6 +35,14 @@ Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.a
 - I love playing the piano 🎹
 - I'm passionate about math and solving complex problems 🔢
 
+## 📊 GitHub Stats
+
+![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupam1707&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anupam1707&theme=radical)
+
 ## 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Anupam1707&theme=radical)
