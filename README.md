@@ -35,14 +35,27 @@ Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.a
 - I love playing the piano 🎹
 - I'm passionate about math and solving complex problems 🔢
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupam1707&show_icons=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Anupam1707&theme=radical)
 
-## 🔥 Streak Stats
+## 🧑‍🚀 Followers Badge
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anupam1707&theme=radical)
+![Followers](https://img.shields.io/github/followers/Anupam1707?label=Followers&style=social)
 
-## 🌐 Top Languages
+## ⭐ GitHub Starred Repos
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam1707&layout=compact&theme=radical)
+![GitHub Stars](https://img.shields.io/github/stars/Anupam1707?label=Stars&style=social)
+
+## 🏅 GitHub Gists
+
+![Gists](https://img.shields.io/github/gist/stars/Anupam1707?label=Gists&style=social)
+
+## 🌐 Website Badge
+
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgithub.com%2FAnupam1707)
+
+## 📫 Contact Badge
+
+![Contact](https://img.shields.io/badge/Contact-Email%20me-blue)
+
