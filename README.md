@@ -37,12 +37,12 @@ Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.a
 
 ## 📊 GitHub Stats
 
-![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupam1707&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anupam1707&theme=radical)
 
 ## 🌐 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam1707&layout=compact&theme=radical)
