@@ -12,11 +12,11 @@ I'm a polyglot programmer, tech writer, and programming coach.
 ## 🔧 Projects
 
 - **[View Projects](https://anupam1707.github.io/projects):**
-- 
+  
 ## 🎓 Education & Certifications
 
 - **Daly College, Indore:** Class 12th, CBSE
-- **NMIMS Indore, B.Tech CE**
+- **NMIMS Indore:** B.Tech CE
   
 - **Certifications:**
   - [View Certificates](https://anupam1707.github.io/feathers)
