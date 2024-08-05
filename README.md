@@ -1,35 +1,34 @@
 # Hi there, I'm Anupam Kanoongo 👋
 
-I'm a polyglot programmer, tech writer, and programming coach. I run Tech Info, where I create innovative tech solutions. Currently, I'm a student at Daly College, Indore, aiming to clear IIT and become a Full Stack Developer.
+I'm a polyglot programmer, tech writer, and programming coach.
 
 ## 🚀 Skills
 
 - **Languages:** Python, JavaScript, C++
 - **Frameworks:** Django, React, Node.js
-- **Tools:** Git, GitHub, Docker, Postman
-- **Other Skills:** Video Editing, Tech Writing, Coaching
+- **Tools:** Git, GitHub, Postman
+- **Other Skills:** Video Editing, Tech Writing, Graphic Design
 
 ## 🔧 Projects
 
-- **[Weather App](https://github.com/username/weather-app):** A weather application that gets user location, displays it, and provides weather updates.
-- **[Restaurant Seat Reservation and Ordering App](https://github.com/username/restaurant-app):** A comprehensive app for restaurant seat reservation and ordering.
-
+- **[View Projects](https://anupam1707.github.io/projects):**
+- 
 ## 🎓 Education & Certifications
 
 - **Daly College, Indore:** Class 12th, CBSE
+- **NMIMS Indore, B.Tech CE**
+  
 - **Certifications:**
-  - [Learn Tricks Internship Certificate](link-to-certificate)
-  - [Postman API Fundamentals Workshop](link-to-certificate)
+  - [View Certificates](https://anupam1707.github.io/feathers)
 
 ## 📺 YouTube Channel
 
-Check out my YouTube channel [Developer AK](https://www.youtube.com/channel/your-channel-link) for tech tutorials, programming languages, and AI tool reviews.
+Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.anupam) for tech tutorials, programming languages, and AI tool reviews.
 
 ## 📫 How to Reach Me
 
-- **Email:** anupam.kanoongo@example.com
-- **LinkedIn:** [Anupam Kanoongo](https://www.linkedin.com/in/anupamkanoongo)
-- **Twitter:** [@AnupamKanoongo](https://twitter.com/AnupamKanoongo)
+- **Email:** programmer.tiak@gmail.com
+- **LinkedIn:** [Anupam Kanoongo](https://www.linkedin.com/in/tiak)
 
 ## 🌟 Fun Facts
 
