@@ -23,7 +23,7 @@ I'm a polyglot programmer, tech writer, and programming coach.
 
 ## 📺 YouTube Channel
 
-Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.anupam) for tech tutorials, programming languages, and AI tool reviews.
+Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.anupam) for tech tutorials, programming languages, and AI tools.
 
 ## 📫 How to Reach Me
 
