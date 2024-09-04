@@ -41,7 +41,7 @@ Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.a
 
 ## Top Languages Used
 
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam1707&layout=compact)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam1707&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
