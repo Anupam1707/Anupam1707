@@ -34,6 +34,9 @@ Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.a
 
 - I love playing the piano 🎹
 - I'm passionate about math and solving complex problems 🔢
+## Languages I Know 
+
+![Languages](https://raw.githubusercontent.com/Sam-Varghese/Sam-Varghese/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 
 ## 📊 GitHub Stats
 
