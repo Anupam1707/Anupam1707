@@ -39,6 +39,10 @@ Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.a
 
 ![Anupam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupam1707&show_icons=true&theme=radical)
 
+## Top Languages Used
+
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam1707&layout=compact)
+
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anupam1707&theme=radical)
