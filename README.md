@@ -70,7 +70,3 @@ Check out my YouTube channel [Developer AK](https://www.youtube.com/@developer.a
 ## 📫 Contact Badge
 
 ![Contact](https://img.shields.io/badge/Contact-Email%20me-blue)
-
-Q3. A pentagonal prism 25mm base of side and 60 mm axis is resting on its base on HP with a rectangular face perpendicular to VP. It is cut by a cutting plane inclined at 45 degrees to HP and passing through a point on an axis 15mm from the top surface. Draw the FV, sectional TV, and development of the lateral surface.
-
-Q4. A pentagonal prism 20 mm base of side and 40 mm axis is resting on its base on HP with rectangular face parallel to VP and corner near to VP. It is cut by a cutting plane inclined at 45 degrees to the HP and passing through a point on the axis 20 mm from the top surface. Draw sectional TV, FV, true shape, and development of the lateral surfaces.
