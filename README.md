@@ -3,9 +3,17 @@
 I'm a polyglot programmer, tech writer, and programming coach.
 
 ## 🚀 Skills
+![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white)
+![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
+![MySql](https://img.shields.io/badge/MySql-323330?style=for-the-badge&logo=MySql&logoColor=F7DF1E)
+![Scikit-learn](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=Python&logoColor=F7DF1E)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-1572B6?style=for-the-badge&logo=javascript&logoColor=white)
+![nodejs](https://img.shields.io/badge/nodejs-1572B6?style=for-the-badge&logo=nodejs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-00C7B7?style=for-the-badge&logo=Flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-00C7B7?style=for-the-badge&logo=Django&logoColor=white)
 
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** Django, React, Node.js
 - **Tools:** Git, GitHub, Postman
 - **Other Skills:** Video Editing, Tech Writing, Graphic Design
 
