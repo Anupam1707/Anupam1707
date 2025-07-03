@@ -13,8 +13,9 @@ I'm a polyglot programmer, tech writer, and programming coach.
 ![nodejs](https://img.shields.io/badge/nodejs-1572B6?style=for-the-badge&logo=nodejs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-00C7B7?style=for-the-badge&logo=Flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-00C7B7?style=for-the-badge&logo=Django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-- **Tools:** Git, GitHub, Postman
+- **Tools:** Git, GitHub, Postman, Streamlit
 - **Other Skills:** Video Editing, Tech Writing, Graphic Design
 
 ## 🔧 Projects
