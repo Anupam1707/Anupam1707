@@ -25,7 +25,7 @@ I'm a polyglot programmer, tech writer, and programming coach.
 ## 🎓 Education & Certifications
 
 - **Daly College, Indore:** Class 12th, CBSE
-- **NMIMS Indore:** FY B.Tech CE
+- **NMIMS Indore:** Sophomore B.Tech CE
   
 - **Certifications:**
   - [View Certificates](https://anupam1707.github.io/feathers)
