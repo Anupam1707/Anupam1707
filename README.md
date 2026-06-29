@@ -1,7 +1,7 @@
 # Hi there, I'm Anupam Kanoongo 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Full-Stack+AI-Developer;Technical+Writer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Technical+Writer;Programming+Coach" alt="Typing SVG" />
 </p>
 
 I'm a polyglot programmer, tech writer, and programming coach. I craft modern, scalable web applications and teach software engineering principles.
@@ -73,16 +73,12 @@ I run the YouTube channel [Developer AK](https://www.youtube.com/@developer.anup
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anupam1707&show_icons=true&theme=radical&hides_limit=true" alt="Anupam's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Anupam1707&show_icons=true&theme=radical" alt="Anupam's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam1707&layout=compact&theme=radical" alt="Most Languages Used" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam1707&theme=radical" alt="GitHub Streak" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anupam1707&theme=radical&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -92,5 +88,5 @@ I run the YouTube channel [Developer AK](https://www.youtube.com/@developer.anup
 <p align="center">
   <img src="https://img.shields.io/github/followers/Anupam1707?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Anupam1707?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/gist/stars/Anupam1707?label=Gists&style=social" alt="Gists" />
+  <img src="https://img.shields.io/github/gists/Anupam1707?label=Gists&style=social" alt="Gists" />
 </p>
