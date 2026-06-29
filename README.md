@@ -80,13 +80,3 @@ I run the YouTube channel [Developer AK](https://www.youtube.com/@developer.anup
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anupam1707&theme=radical" alt="GitHub Streak" width="98%" />
 </p>
-
----
-
-### 🌟 Social Badge Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Anupam1707?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Anupam1707?label=Stars&style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/gists/Anupam1707?label=Gists&style=social" alt="Gists" />
-</p>
