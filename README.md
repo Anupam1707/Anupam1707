@@ -1,7 +1,7 @@
 # Hi there, I'm Anupam Kanoongo 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Technical+Writer;Programming+Coach" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Full-Stack+AI-Developer;Technical+Writer" alt="Typing SVG" />
 </p>
 
 I'm a polyglot programmer, tech writer, and programming coach. I craft modern, scalable web applications and teach software engineering principles.
